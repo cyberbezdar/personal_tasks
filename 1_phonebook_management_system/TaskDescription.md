@@ -7,3 +7,7 @@ Users will be able to:
 - show existing phone records;
 - search a particular phone record;
 - delete phone records.
+
+Plans:
+- added ui
+- added cmake
