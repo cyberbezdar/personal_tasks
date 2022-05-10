@@ -24,6 +24,7 @@ void mainMenu()
 		switch (status)
 		{
 			case 1:
+				addNewPhoneRecord();
 				break;
 			case 2:
 				break;
